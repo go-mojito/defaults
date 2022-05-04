@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Recommended Stack for Mojito</strong></h1>
+<h1 align="center"><strong>Default Stack for Mojito</strong></h1>
 <p align="center">
     <a href="https://goreportcard.com/report/github.com/go-mojito/defaults" alt="Go Report Card">
         <img src="https://goreportcard.com/badge/github.com/go-mojito/defaults" /></a>
@@ -17,7 +17,7 @@
 		
 </p>
 <p align="center">
-Handlebars for Mojito provides a Handlebars Renderer implementation that was designed specifically for Mojito.
+Defaults provides our recommended stack of implementations for Mojito with focus on performance and ease of use.
 </p>
 
 </p>
