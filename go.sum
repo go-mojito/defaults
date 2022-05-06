@@ -7,6 +7,8 @@ github.com/go-mojito/handlebars v0.0.0-20220504204259-4594337b14f6 h1:1C2pKc/89m
 github.com/go-mojito/handlebars v0.0.0-20220504204259-4594337b14f6/go.mod h1:tkar81tc8MMt63rLGG7RWcQ4ByStEZHY/VHICd0R3Uk=
 github.com/go-mojito/logger-zerolog v0.0.0-20220506233345-5b15ee2863bd h1:KT3b0lOySXOfkuUUH5+2AmA455FGvrHhFdL9KYblnrs=
 github.com/go-mojito/logger-zerolog v0.0.0-20220506233345-5b15ee2863bd/go.mod h1:BPaFiotxbqX1SkyvVbMgnl1ibbwcPhtAIfNdcJZHc3U=
+github.com/go-mojito/logger-zerolog v0.0.0-20220506234857-c633a888040f h1:2cJer0IKRj73yzaL5/vi8cxUMFn3F0hglk9ftIzfwMM=
+github.com/go-mojito/logger-zerolog v0.0.0-20220506234857-c633a888040f/go.mod h1:BPaFiotxbqX1SkyvVbMgnl1ibbwcPhtAIfNdcJZHc3U=
 github.com/go-mojito/mojito v0.0.1 h1:UA04gSD+dqP3XMmfZtMSug79OCfTbfIefe0U0yieX7k=
 github.com/go-mojito/mojito v0.0.1/go.mod h1:zrxadGUw1JJjkkadzzAPE4JntL8BIJddGqwxqjGsNTg=
 github.com/go-mojito/mojito v0.0.4 h1:2o833CAg3KaVx9+4+L3ErMOKuFEsuwDtU29EC9YWlsk=

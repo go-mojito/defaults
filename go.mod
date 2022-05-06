@@ -10,7 +10,7 @@ require (
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/fasthttp/router v1.4.8 // indirect
-	github.com/go-mojito/logger-zerolog v0.0.0-20220506233345-5b15ee2863bd // indirect
+	github.com/go-mojito/logger-zerolog v0.0.0-20220506234857-c633a888040f // indirect
 	github.com/go-mojito/mojito v0.0.4 // indirect
 	github.com/infinytum/injector v0.0.2 // indirect
 	github.com/infinytum/raymond/v2 v2.0.5 // indirect
