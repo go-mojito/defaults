@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="/.github/assets/gopher.png"
+        height="300">
+</p>
+
 <h1 align="center"><strong>Default Stack for Mojito</strong></h1>
 <p align="center">
     <a href="https://goreportcard.com/report/github.com/go-mojito/defaults" alt="Go Report Card">
@@ -23,7 +28,7 @@ Defaults provides our recommended stack of implementations for Mojito with focus
 </p>
 
 <h2 align="center"><strong>Implementations</strong></h2>
-<p align="center"><a href="https://github.com/go-mojito/router-fasthttp">FastHTTP</a> &bullet; <a href="https://github.com/go-mojito/handlebars">Handlebars</a></p>
+<p align="center"><a href="https://github.com/go-mojito/logger-zerolog">ZeroLog</a> &bullet; <a href="https://github.com/go-mojito/router-fasthttp">FastHTTP</a> &bullet; <a href="https://github.com/go-mojito/handlebars">Handlebars</a></p>
 
 <h2 align="center"><strong>How to enable this Stack</strong></h2>
 <p align="center">To enable the Infinytum-recommended Stack, import this repository in your mainfile like this.</p>
