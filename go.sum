@@ -3,8 +3,8 @@ github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHG
 github.com/coreos/go-systemd/v22 v22.3.3-0.20220203105225-a9a7ef127534/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/fasthttp/router v1.4.14 h1:+W65VCKgyI4BZszhDiCRfONoFieePZIoQ7D8vGhiuzM=
 github.com/fasthttp/router v1.4.14/go.mod h1:+svLaOvqF9Lc0yjX9aHAD4NUMf+mggLPOT4UMdS6fjM=
-github.com/go-mojito/handlebars v0.0.1 h1:JU31Lul3NyP8Af7gCeRT7xhOCMoRcG+5Qq0kZZviqc8=
-github.com/go-mojito/handlebars v0.0.1/go.mod h1:qeWs3eudXdzagbrYfm7FSYImRWgQb4DFrEUX7ubJKZY=
+github.com/go-mojito/handlebars v0.0.2 h1:WkvAcMFjye1UpEpIjVXo+Ybu0/T6HNTdFtACWrj9ShE=
+github.com/go-mojito/handlebars v0.0.2/go.mod h1:2m5RvnuULf3RN3gT53oD9zaobzZC0b1Ur1lS+fnKRj8=
 github.com/go-mojito/logger-zerolog v0.0.1 h1:FINEprTxd/LeE0/Otx35/hBF4z8mGGIoxzdrQFWKnmg=
 github.com/go-mojito/logger-zerolog v0.0.1/go.mod h1:deqO3ee9+KQTFZepKRic74pLUbkHGODzKRzOYr+bqfA=
 github.com/go-mojito/mojito v0.0.16 h1:OHv6zmI89ofbhGsbXrQZpZX1HR08xF6XefU8HFAGRWE=

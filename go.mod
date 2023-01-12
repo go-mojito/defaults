@@ -3,7 +3,7 @@ module github.com/go-mojito/defaults
 go 1.19
 
 require (
-	github.com/go-mojito/handlebars v0.0.1
+	github.com/go-mojito/handlebars v0.0.2
 	github.com/go-mojito/logger-zerolog v0.0.1
 	github.com/go-mojito/router-fasthttp v0.0.2
 )
